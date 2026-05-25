@@ -1,8 +1,8 @@
-# Adidas Marketing Strategy Case Study
+# Adidas Marketing Strategy 
 
 ## 📌 Project Overview
 
-This case study provides a comprehensive analysis of **Adidas's digital marketing strategy**, brand positioning, and market approach. It examines how Adidas leverages multiple marketing channels to maintain market leadership in the athletic footwear and apparel industry.
+This provides a comprehensive analysis of **Adidas's digital marketing strategy**, brand positioning, and market approach. It examines how Adidas leverages multiple marketing channels to maintain market leadership in the athletic footwear and apparel industry.
 
 ## 🎯 Objectives
 
